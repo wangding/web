@@ -26,10 +26,10 @@
     "gtalk": {
       "clientID": "9bf2c6e3fa4e8d0e26a3",
       "clientSecret": "f8465afbfde1b3bf69f25202070a3b64285a816b",
-      "repo": "spa",
+      "repo": "web",
       "owner": "wangding",
       "admin": ["wangding"],
-      "labels": ["SPA"]
+      "labels": ["WEB"]
     },
     "anchor-navigation-ex": {
       "multipleH1": false

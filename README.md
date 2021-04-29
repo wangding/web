@@ -24,6 +24,6 @@
 
 - [html-demo](https://github.com/wangding/html-demo) 仓库，演示 HTML 各种技术。
 
-- [css-demo](https://github.com/wangding/css-demo)仓库，演示 CSS 各种技术。
+- [css-demo](https://github.com/wangding/css-demo) 仓库，演示 CSS 各种技术。
 
-- [js-demo](https://github.com/wangding/js-demo)仓库，演示 JavaScript 编程技术。
+- [js-demo](https://github.com/wangding/js-demo) 仓库，演示 JavaScript 编程技术。
