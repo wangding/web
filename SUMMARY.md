@@ -12,6 +12,7 @@
 
 - [CSS 起步](chapters/ch04-css-basic.md)
 - [层叠与继承](chapters/ch05-cascade-inherit.md)
+- [选择器](chapters/ch06-selectors.md)
 - [背景与边框]()
 - [盒模型]()
 - [格式化表格]()
