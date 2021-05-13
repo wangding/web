@@ -14,7 +14,7 @@
 - [层叠与继承](chapters/ch05-cascade-inherit.md)
 - [选择器](chapters/ch06-selectors.md)
 - [盒模型](chapters/ch07-box.md)
-- [背景与边框]()
+- [背景与边框](chapters/ch08-background-border.md)
 - [格式化表格]()
 - [格式化文本]()
 - [CSS 布局]()
