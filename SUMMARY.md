@@ -16,7 +16,7 @@
 - [盒模型](chapters/ch07-box.md)
 - [背景与边框](chapters/ch08-background-border.md)
 - [格式化表格](chapters/ch09-table.md)
-- [格式化文本]()
+- [格式化文本](chapters/ch10-text.md)
 - [CSS 布局]()
 
 ## JavaScript
