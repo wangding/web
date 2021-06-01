@@ -10,3 +10,6 @@
 - 用递归函数实现 n! 计算功能
 - n! = n * (n-1)!
 - 在控制台输出 n! 运算结果，输出格式，例如：4! = 24
+
+示例参考：
+- [递归函数](https://codepen.io/wangding/pen/gOmomzE?editors=0011)
