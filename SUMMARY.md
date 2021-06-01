@@ -25,7 +25,7 @@
 - [基本语法和数据类型]()
 - [运算符和表达式]()
 - [语句和程序结构](chapters/ch15-statement-structure.md)
-- [函数]()
+- [函数](chapters/ch16-function.md)
 - [对象]()
 - [模块]()
 - [常用数据类型]()
