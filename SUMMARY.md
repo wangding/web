@@ -2,6 +2,22 @@
 
 - [简介](README.md)
 
+## JavaScript
+
+- [概述](chapters/ch12-javascript-intro.md)
+- [基本语法和数据类型（略）]()
+- [运算符和表达式（略）]()
+- [语句和程序结构](chapters/ch15-statement-structure.md)
+- [函数](chapters/ch16-function.md)
+- [常用数据类型]()
+- [对象]()
+- [模块]()
+- [异步编程和 Promise]()
+- [迭代器和生成器]()
+- [代理和反射]()
+- [浏览器 API]()
+- [服务器 API]()
+
 ## HTML
 
 - [HTML 基础](chapters/ch01-html-basic.md)
@@ -18,14 +34,3 @@
 - [格式化表格](chapters/ch09-table.md)
 - [格式化文本](chapters/ch10-text.md)
 - [CSS 布局](chapters/ch11-layout.md)
-
-## JavaScript
-
-- [概述](chapters/ch12-intro.md)
-- [基本语法和数据类型]()
-- [运算符和表达式]()
-- [语句和程序结构](chapters/ch15-statement-structure.md)
-- [函数](chapters/ch16-function.md)
-- [对象]()
-- [模块]()
-- [常用数据类型]()

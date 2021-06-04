@@ -5,6 +5,50 @@
 - [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 - [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
+## if 多路分支
+
+要求：
+- 用 else if 多路开关，实现分数（百分制）到等第的转换
+- 提示用户输入分数
+- 对用户输入的分数，做数据合法性校验，当用户输入错误时，提示出错信息
+- 能够检查出如下错误：
+  - 用户输入为空
+  - 用户输入的数据类型不合法，例如：`score = 'abc'`
+  - 用户输入的数据不在合法的范围，例如：`score = -7` 或者 `score = 107`
+- score 和等第的关系如下：
+  - 90 <= score <= 100，优秀
+  - 80 <= score < 90，良好
+  - 70 <= score < 80，中等
+  - 60 <= score < 70，可以
+  - 0  <= score < 60，较差
+- 如果用户输入的数据合法，在控制台打印分数和等第
+- 输出格式，例如：`score = 73，level = 可以`
+
+示例参考：
+- [if 多路分支](https://codepen.io/wangding/pen/eYvMjKP?editors=0011)
+
+## switch 多路分支
+
+要求：
+- 用 switch 多路开关，实现分数（百分制）到等第的转换
+- 提示用户输入分数
+- 对用户输入的分数，做数据合法性校验，当用户输入错误时，提示出错信息
+- 能够检查出如下错误：
+  - 用户输入为空
+  - 用户输入的数据类型不合法，例如：`score = 'abc'`
+  - 用户输入的数据不在合法的范围，例如：`score = -7` 或者 `score = 107`
+- score 和等第的关系如下：
+  - 90 <= score <= 100，优秀
+  - 80 <= score < 90，良好
+  - 70 <= score < 80，中等
+  - 60 <= score < 70，可以
+  - 0  <= score < 60，较差
+- 如果用户输入的数据合法，在控制台打印分数和等第
+- 输出格式，例如：`score = 73，level = 可以`
+
+示例参考：
+- [switch 多路分支](https://codepen.io/wangding/pen/bGqvjMR?editors=0011)
+
 ## for 循环
 
 要求：
