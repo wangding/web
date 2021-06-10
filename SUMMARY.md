@@ -10,7 +10,7 @@
 - [语句和程序结构](chapters/ch15-statement-structure.md)
 - [函数](chapters/ch16-function.md)
 - [常用数据类型]()
-- [对象]()
+- [对象](chapters/ch18-object.md)
 - [模块]()
 - [异步编程和 Promise]()
 - [迭代器和生成器]()
