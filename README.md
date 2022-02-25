@@ -8,7 +8,7 @@
 
 ## 学习交流群
 
-王顶老师的 QQ 学习交流群：301862163，加群时请报上自己的真实姓名，以及正在学习的课程内容。
+王顶老师的 QQ 学习交流群：301862163，加群时请报上自己的真实姓名，以及正在学习的课程内容。（经贸的学生不要加群）
 
 ![QQ 群二维码，王顶，408542507@qq.com](https://cdn.jsdelivr.net/gh/wangding/sample@master/images/student-group.webp)
 
@@ -22,8 +22,8 @@
 
 ## 示例代码
 
-- [html-demo](https://github.com/wangding/html-demo) 仓库，演示 HTML 各种技术。
+- [html-demo](https://bitbucket.org/wngding/html-demo) 仓库，演示 HTML 各种技术。
 
-- [css-demo](https://github.com/wangding/css-demo) 仓库，演示 CSS 各种技术。
+- [css-demo](https://bitbucket.org/wngding/css-demo) 仓库，演示 CSS 各种技术。
 
-- [js-demo](https://github.com/wangding/js-demo) 仓库，演示 JavaScript 编程技术。
+- [js-demo](https://bitbucket.org/wngding/javascript-demo) 仓库，演示 JavaScript 编程技术。
