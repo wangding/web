@@ -5,9 +5,9 @@
 ## JavaScript
 
 - [概述](chapters/ch12-javascript-intro.md)
-- [基本语法和数据类型（略）]()
-- [运算符和表达式（略）]()
-- [语句和程序结构](chapters/ch15-statement-structure.md)
+- [基本语法和数据类型]()
+- [运算符和表达式]()
+- [流程控制](chapters/ch15-statement-structure.md)
 - [函数](chapters/ch16-function.md)
 - [常用数据类型]()
 - [对象](chapters/ch18-object.md)
