@@ -11,7 +11,7 @@
 - 在 html-demo 项目仓库下，创建 08-table 目录
 - 在页面中展示人称代词的表格
 - 页面 title 为：人称代词
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 
 示例参考：
 - [人称代词](https://wangding.github.io/html-demo/08-table/01-personal-pronouns.html)
@@ -22,7 +22,7 @@
 - 在 08-table 目录下
 - 在页面中展示本学期的课程表
 - 页面 title 为：课程表
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 
 示例参考：
 - [课程表](https://wangding.github.io/html-demo/08-table/02-time-table.html)
@@ -36,7 +36,7 @@
 - 页面有 h1 元素，内容是：登录
 - 页面有 form 元素，内容是登录的交互控件
 - 登录需要提交的字段有：用户名和密码
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 
 示例参考：
 - [登录](https://wangding.github.io/html-demo/09-form/)

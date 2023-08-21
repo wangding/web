@@ -7,42 +7,19 @@
 
 ## 搭建开发环境
 
-**方式一：导入虚拟机（推荐）**
-
-- 下载并安装 vmware workstation Pro 15+（**已经安装 vmware workstation，跳过此步**）
-- 下载 [mocha 虚拟机](http://pan.baidu.com/s/1o8a3E3o)压缩文件
-- 解压缩 mocha 虚拟机
-- 用 vmware workstation，打开解压后的 mocha 虚拟机
-- 启动 mocha 虚拟机
-- 登录 mocha 虚拟机，用户名：wangding，密码：ddd
-- 配置 mocha 虚拟机的网卡 IP 地址，具体操作请参考：[教学视频](https://www.bilibili.com/video/bv1iy4y1y7hm)
-- 确保在 mocha 虚拟机中，`ping www.baidu.com` 可以正常执行
-- 下载并安装 [xshell 6](https://www.netsarang.com/zh/free-for-home-school/)
-- 用 XShell 链接 mocha 虚拟机
-- 配置 mocha 虚拟机的 git 参数，包括：user.name 和 user.email
-- 在 GitHub 或码云创建测试仓库，确保 git 可以向远程仓库提交代码
-
-**方式二：从头安装**
-
-- 安装步骤请参考：[Node.js 开发环境搭建](setup-dev-env.html)
-- 安装 CentOS 虚拟机，请参考：[教学视频](http://edu.51cto.com/center/course/lesson/index?id=166501)
-
-## 熟悉开发环境的使用
-
-- 熟悉[开发环境的使用](http://nodejs.wangding.co/env-manual.html)
-- 熟悉常用的 [linux 命令用法](http://note.wangding.co/linux/centos.html)
-- 熟悉 [Git 命令](http://note.wangding.co/office/git.html)的用法
-- 熟悉 [vim 的用法](http://note.wangding.co/office/vim.html)
+- 下载并安装 [vscode](https://code.visualstudio.com/)
+- 安装 Mithril Emmet 插件
+- 安装 Live Server 插件
 
 ## Hello World
 
 基本要求：
-- 在 [GitHub](https://github.com) 上创建 html-demo 项目仓库
+- 在 [bitbucket](https://bitbucket.org/) 上创建 html-demo 项目仓库
 - 在仓库目录下，创建 01-hello-world 目录
 - 在目录下添加 index.html 页面
 - 页面标题为：hello world
 - 页面正文为：hello HTML5!，这行文本作为 h1 元素的内容
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 - 用浏览器测试查看发布上线的网页
 
 示例参考：
@@ -59,7 +36,7 @@
 - 引文结束后，另起一行，写出引文的出处
 - 引文的出处需要加上链接，链接到该文章的百度百科词条
 - 引文后面是一个跟引文内容相关的配图
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 - 用浏览器测试查看发布上线的网页
 
 示例参考：
@@ -119,7 +96,7 @@
 - 原料的内容为无序列表
 - 做法的内容是操作步骤，为有序列表
 - 其他未提及的内容是普通段落
-- 将代码通过 GitHub Pages 功能发布上线
+- 将代码通过七牛云发布上线
 - 用浏览器测试查看发布上线的网页
 
 示例参考：
