@@ -3,6 +3,10 @@
 ## 阅读参考资料
 
 - [布局](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout)
+- [学习 CSS 布局](https://zh.learnlayout.com)
+- [Flex 布局教程：语法篇](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [Flex 布局教程：实例篇](https://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+- [CSS Grid 网格布局教程](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 
 ## 弹性盒子
 
