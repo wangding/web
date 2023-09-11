@@ -1,4 +1,4 @@
-# 第 12 章：JavaScript 概述
+# 第 1 章：JavaScript 概述
 
 ## 阅读参考资料
 

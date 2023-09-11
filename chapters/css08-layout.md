@@ -1,4 +1,4 @@
-# 第 11 章：布局
+# 第 8 章：布局
 
 ## 阅读参考资料
 
@@ -7,45 +7,6 @@
 - [Flex 布局教程：语法篇](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [Flex 布局教程：实例篇](https://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 - [CSS Grid 网格布局教程](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
-
-## 弹性盒子
-
-要求：
-- 在 [code-pen](https://codepen.io/wangding/pen/eYvgmrN?editors=1100) 代码中进行如下 CSS 样式设置
-- 设置页面内外边距为 0px，高度 100%
-- 设置 box1 背景色为浅绿色，box2 背景色为浅蓝色，box3 背景色为浅粉色，三个 box 的高度为浏览器窗口高度的 100%
-- 观察三个 box 的布局，应该为三行一列
-- 使用弹性盒子方式，修改三个 box 的布局，为一行三列布局
-
-示例参考：
-- [弹性盒子](https://wangding.github.io/css-demo/07-layout/01-flex.html)
-
-## 网格 1
-
-要求：
-- 在 [code-pen](https://codepen.io/wangding/pen/rNyjJQG?editors=1100) 代码中进行如下 CSS 样式设置
-- 设置页面内外边距为 0px，高度 100%
-- 设置 box1 ~ box6 背景色为浅绿色
-- 观察六个 box 的布局，应该为六行一列
-- 使用网格布局，修改六个 box 的布局，为二行三列布局，其中 box 之间的距离为 10px
-
-示例参考：
-- [网格 1](https://wangding.github.io/css-demo/07-layout/02-grid.html)
-
-## 网格 2
-
-要求：
-- 在 [code-pen](https://codepen.io/wangding/pen/RwpKMJr?editors=1100) 代码中进行如下 CSS 样式设置
-- 设置页面内外边距为 0px，高度 100%
-- 设置 box1 ~ box3 背景色为浅绿色
-- 观察三个 box 的布局，应该为三行一列
-- 使用网格布局，修改三个 box 的布局，为二行三列布局
-- 其中 box2 跨两行，占第一列
-- 其中 box1 跨两列，占第一行
-- 其中 box3 占第二行，第三列
-
-示例参考：
-- [网格 2](https://wangding.github.io/css-demo/07-layout/03-grid.html)
 
 ## 浮动 1
 
@@ -154,6 +115,46 @@
 
 示例参考：
 - [表格布局](https://wangding.github.io/css-demo/07-layout/11-table.html)
+
+## 弹性盒子
+
+要求：
+- 在 [code-pen](https://codepen.io/wangding/pen/eYvgmrN?editors=1100) 代码中进行如下 CSS 样式设置
+- 设置页面内外边距为 0px，高度 100%
+- 设置 box1 背景色为浅绿色，box2 背景色为浅蓝色，box3 背景色为浅粉色，三个 box 的高度为浏览器窗口高度的 100%
+- 观察三个 box 的布局，应该为三行一列
+- 使用弹性盒子方式，修改三个 box 的布局，为一行三列布局
+
+示例参考：
+- [弹性盒子](https://wangding.github.io/css-demo/07-layout/01-flex.html)
+
+## 网格 1
+
+要求：
+- 在 [code-pen](https://codepen.io/wangding/pen/rNyjJQG?editors=1100) 代码中进行如下 CSS 样式设置
+- 设置页面内外边距为 0px，高度 100%
+- 设置 box1 ~ box6 背景色为浅绿色
+- 观察六个 box 的布局，应该为六行一列
+- 使用网格布局，修改六个 box 的布局，为二行三列布局，其中 box 之间的距离为 10px
+
+示例参考：
+- [网格 1](https://wangding.github.io/css-demo/07-layout/02-grid.html)
+
+## 网格 2
+
+要求：
+- 在 [code-pen](https://codepen.io/wangding/pen/RwpKMJr?editors=1100) 代码中进行如下 CSS 样式设置
+- 设置页面内外边距为 0px，高度 100%
+- 设置 box1 ~ box3 背景色为浅绿色
+- 观察三个 box 的布局，应该为三行一列
+- 使用网格布局，修改三个 box 的布局，为二行三列布局
+- 其中 box2 跨两行，占第一列
+- 其中 box1 跨两列，占第一行
+- 其中 box3 占第二行，第三列
+
+示例参考：
+- [网格 2](https://wangding.github.io/css-demo/07-layout/03-grid.html)
+
 
 ## 多列布局
 
