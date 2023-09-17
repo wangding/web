@@ -23,15 +23,9 @@
 ## JavaScript
 
 - [概述](chapters/js01-basic.md)
-- [基本语法和数据类型]()
-- [运算符和表达式]()
 - [流程控制](chapters/js02-statement-structure.md)
 - [函数](chapters/js03-function.md)
-- [常用数据类型]()
 - [对象](chapters/js04-object.md)
 - [模块]()
-- [异步编程和 Promise]()
-- [迭代器和生成器]()
-- [代理和反射]()
 - [浏览器 API]()
 - [服务器 API]()
