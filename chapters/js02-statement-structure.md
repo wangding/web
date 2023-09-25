@@ -5,6 +5,12 @@
 - [控制流与错误处理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 - [循环与迭代](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
+## 二进熵函数
+
+要求：
+- 二进熵函数公式：`h(p) = -p*log(p)-(1-p)*log(1-p)`
+- 给定概率 p，计算二进熵函数
+
 ## if 多路分支
 
 要求：
@@ -53,8 +59,8 @@
 
 要求：
 - 用 for 循环实现 n! 计算功能
-- n! = n * (n-1) * ... * 1
-- 在控制台输出 n! 运算结果，输出格式，例如：4! = 24
+- `n! = n × (n-1) × ... × 1`
+- 在控制台输出 `n!` 运算结果，输出格式，例如：`4! = 24`
 
 示例参考：
 - [for 循环](https://codepen.io/wangding/pen/KKWZWXp?editors=0011)
@@ -83,8 +89,8 @@
 
 要求：
 - 用 do-while 循环实现 n! 计算功能
-- n! = n * (n-1) * ... * 1
-- 在控制台输出 n! 运算结果，输出格式，例如：4! = 24
+- `n! = n × (n-1) × ... × 1`
+- 在控制台输出 `n!` 运算结果，输出格式，例如：`4! = 24`
 
 示例参考：
 - [do-while 循环](https://codepen.io/wangding/pen/eYvyvyB?editors=0011)
@@ -93,8 +99,8 @@
 
 要求：
 - 用 while 循环实现 n! 计算功能
-- n! = n * (n-1) * ... * 1
-- 在控制台输出 n! 运算结果，输出格式，例如：4! = 24
+- `n! = n × (n-1) × ... × 1`
+- 在控制台输出 `n!` 运算结果，输出格式，例如：`4! = 24`
 
 示例参考：
 - [while 循环](https://codepen.io/wangding/pen/yLMpMvO?editors=0011)
@@ -103,11 +109,12 @@
 
 要求：
 - 定义一个对象 me 如下：
+
 ```js
 const me = {
-  name: 'wangding',
-  email: '408542507@qq.com',
-  mobile: '13582027613'
+    name: 'wangding',
+    email: '408542507@qq.com',
+    mobile: '13582027613'
 };
 ```
 - 用 for-in 循环在控制台输出 me 对象的各个字段
