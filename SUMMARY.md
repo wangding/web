@@ -26,6 +26,7 @@
 - [流程控制](chapters/js02-statement-structure.md)
 - [函数](chapters/js03-function.md)
 - [对象](chapters/js04-object.md)
+- [基本引用类型](chapters/js05-basic-ref-types.md)
 - [模块]()
 - [浏览器 API]()
 - [服务器 API]()
